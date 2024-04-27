@@ -35,7 +35,6 @@ public class Main {
 
                 default:
                     System.out.println("--- OPCION INCORRERTA ---");
-                    break; // estos es por si ponen una opcion incorrecta dentro de los caracteres.
                     break;  // estos es por si ponen una opcion incorrecta dentro de los caracteres.
 
 
